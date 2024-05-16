@@ -17,8 +17,6 @@
     <img align="center" alt="Git" src="    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div> <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliohtm08&hide_progress=true&theme=nightowl)
-
 🎓 Estudante de Engenharia de Software na UNIFIO | 💻 Estagiário de TI na Mervil Transportes
 
 Sou um apaixonado por programação e resolução de problemas, com experiência prática em desenvolvimento Back-end, Front-end, banco de dados e administração de servidores. Atualmente, estou focado em me especializar no desenvolvimento frontend, buscando sempre aperfeiçoar minhas habilidades e conhecimentos nessa área dinâmica e desafiadora.
