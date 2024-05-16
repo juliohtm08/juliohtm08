@@ -5,7 +5,8 @@
 
 ![Julio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=juliohtm08&show_icons=true&theme=nightowl )
 
-### Technologies:
+### Technologies
+
 <div style="display: inline_block"> <br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -13,8 +14,11 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
     <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-    <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center" alt="Git" src="    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div> <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliohtm08&hide_progress=true&theme=nightowl)
+
 🎓 Estudante de Engenharia de Software na UNIFIO | 💻 Estagiário de TI na Mervil Transportes
 
 Sou um apaixonado por programação e resolução de problemas, com experiência prática em desenvolvimento Back-end, Front-end, banco de dados e administração de servidores. Atualmente, estou focado em me especializar no desenvolvimento frontend, buscando sempre aperfeiçoar minhas habilidades e conhecimentos nessa área dinâmica e desafiadora.
