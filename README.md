@@ -4,6 +4,7 @@
 - 🌱 Estou estudando NodeJS, PostgreSQL, ReactJS & ReactNative, TypeScript,  JavaScript(ES6+), API e API REST
 - ⚡ Trabalhei com JavaScript(ES6+), TypeScript, ReactJS, API REST, POWER BI, PostgreSQL, MYSQL, Gerenciamento de servidores e MikroORM
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliohtm08&layout=compact&theme=radical)
 
 ##
 <div style='display: inline_block'><br/>
