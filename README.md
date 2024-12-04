@@ -1,21 +1,27 @@
-### Hi, I'm Julio Henrique 👋
+## Olá, eu sou o Julio Henrique Tomoyuki Morizono 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliohtm/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-henrique-tomoyuki-morizono-096256246/)
+- 📖 Cursando Engenharia de Software e desenvolvimento FullStack JS
+- 🌱 Estou estudando NodeJS, PostgreSQL, ReactJS & ReactNative, TypeScript,  JavaScript(ES6+), API e API REST
+- ⚡ Trabalhei com JavaScript(ES6+), TypeScript, ReactJS, API REST, POWER BI, PostgreSQL, MYSQL, Gerenciamento de servidores e MikroORM
 
-![Julio Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=juliohtm08&show_icons=true&theme=nightowl )
 
-### Technologies
+##
+<div style='display: inline_block'><br/>
+    <img align='center' alt='Julio-JS' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align='center' alt='Julio-TS' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <img align='center' alt='Julio-HTML5' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align='center' alt='Julio-CSS3' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align='center' alt='Julio-MYSQL' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+    <img align='center' alt='Julio-POSTGRESQL' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align='center' alt='Julio-REACT' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
 
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
-</div> <br/>
+##
 
-🎓 Estudante de Engenharia de Software na UNIFIO | 💻 Estagiário de TI na Mervil Transportes
+<div>
+    <a href='https://www.linkedin.com/in/julio-henrique-tomoyuki-morizono-096256246/' target='_blank'>
+        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'/>
+    </a>
+</div>
 
-Sou um apaixonado por programação e resolução de problemas, com experiência prática em desenvolvimento Back-end, Front-end, banco de dados e administração de servidores. Atualmente, estou focado em me especializar no desenvolvimento frontend, buscando sempre aperfeiçoar minhas habilidades e conhecimentos nessa área dinâmica e desafiadora.
+          
