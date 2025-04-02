@@ -1,7 +1,7 @@
 ## Olá, eu sou o Julio Henrique Tomoyuki Morizono 👋
 
 - 📖 Cursando Engenharia de Software e desenvolvimento FullStack JS
-- 🌱 Estou estudando NodeJS, PostgreSQL, ReactJS & ReactNative, TypeScript, JavaScript(ES6+), API e API REST
+- 🌱 Estou estudando NodeJS, PostgreSQL, ReactJS & ReactNative, TypeScript, JavaScript(ES6+), API e API REST,NESTJS
 - ⚡ Trabalhei com JavaScript(ES6+), TypeScript, ReactJS, API REST, POWER BI, SQL, Gerenciamento de servidores e de Hardwares.
 
 ##
