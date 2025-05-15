@@ -13,8 +13,9 @@
     <img align='center' alt='Julio-MYSQL' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align='center' alt='Julio-POSTGRESQL' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align='center' alt='Julio-REACT' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align='center' alt='Julio-NodeJS' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img align='center' alt='Julio-NodeJS' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
     <img align='center' alt='Julio-NGINX' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+    <img align='center' alt='Julio-prisma' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />          
 
 </div>
 
