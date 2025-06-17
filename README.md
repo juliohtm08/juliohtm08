@@ -8,6 +8,7 @@
     <img align='center' alt='Julio-Angular' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     <img align='center' alt='Julio-REACT' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align='center' alt='Julio-NodeJS' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
+    <img align='center' alt='Julio-Prisma' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     <img align='center' alt='Julio-HTML5' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align='center' alt='Julio-CSS3' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align='center' alt='Julio-MYSQL' height='40' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
